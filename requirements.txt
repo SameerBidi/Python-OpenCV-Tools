@@ -1,0 +1,4 @@
+mss==6.0.0
+numpy==1.19.1
+opencv-python==4.4.0.42
+pywin32==228
